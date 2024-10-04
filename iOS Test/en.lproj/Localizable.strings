@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  iOS Test
+
+  Created by Nazih Al Bach on 21.07.23.
+  
+*/
+"Service Error" = "Service Error";
+"Something went wrong." = "Something went wrong.";
+"Decoding Error" = "Decoding Error";
+"Venues" = "Venues";
+"There are no venues near your current location." = "There are no venues near your current location.";
